@@ -11,6 +11,7 @@
 		C1FFB34227EEE6D0005B1A3F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1FFB34127EEE6D0005B1A3F /* ContentView.swift */; };
 		C1FFB34427EEE6D1005B1A3F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C1FFB34327EEE6D1005B1A3F /* Assets.xcassets */; };
 		C1FFB34727EEE6D1005B1A3F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C1FFB34627EEE6D1005B1A3F /* Preview Assets.xcassets */; };
+		C1FFB34E27EEEA09005B1A3F /* CircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1FFB34D27EEEA09005B1A3F /* CircleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		C1FFB34127EEE6D0005B1A3F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C1FFB34327EEE6D1005B1A3F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C1FFB34627EEE6D1005B1A3F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C1FFB34D27EEEA09005B1A3F /* CircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				C1FFB33F27EEE6D0005B1A3F /* StoplightAppApp.swift */,
 				C1FFB34127EEE6D0005B1A3F /* ContentView.swift */,
+				C1FFB34D27EEEA09005B1A3F /* CircleView.swift */,
 				C1FFB34327EEE6D1005B1A3F /* Assets.xcassets */,
 				C1FFB34527EEE6D1005B1A3F /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C1FFB34E27EEEA09005B1A3F /* CircleView.swift in Sources */,
 				C1FFB34227EEE6D0005B1A3F /* ContentView.swift in Sources */,
 				C1FFB34027EEE6D0005B1A3F /* StoplightAppApp.swift in Sources */,
 			);
